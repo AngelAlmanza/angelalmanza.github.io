@@ -1,5 +1,4 @@
 import './style.css';
-import p5 from 'p5';
 import { clockSketch } from './src/sketches/Clock';
 import { getDates } from './src/getDates';
 import { generateCitiesText } from './src/generateCitiesText';
